@@ -92,4 +92,10 @@ The script will plot the profit of the run.
 
 ![Image 1](./images/graph-02.png)
 
-![Image 1](./images/graph-03.png)
+Donation
+----
+
+If you think it helped you in any way, please donate to this Bitcoin address:
+
+1Bz7ievtpw76EEU6tyN74owPgAnCxViL4s
+
